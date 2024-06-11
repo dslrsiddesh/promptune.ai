@@ -8,15 +8,6 @@
 # [`Website link`](https://spotify.bitgarden.tech/)  [`Demo video link `](https://youtu.be/lFof-deyGEI)
 Generate a Spotify playlist based on a single prompt. As simple as that.
 
-## Team Details
-`Team number` : VH250
-
-| Name    | Email           |
-|---------|-----------------|
-| Abhishek MJ | cs21b2018@iiitdm.ac.in |
-| M Sri Sujan | cs21b1081@iiitdm.ac.in |
-| DSLR Siddesh | cs21b2019@iiitdm.ac.in |
-
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/desktop_home.png" alt="Image 1">
     <img src="media/desktop_playlist.png" alt="Image 2">
